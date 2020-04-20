@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	u := models.Users{
+	u := models.User{
 		ID:        2,
 		FirstName: "x",
 	}
